@@ -1,0 +1,44 @@
+
+Dataset Download 
+...........................................................
+
+* AMBER
+git clone https://github.com/junyangwang0410/AMBER.git
+..............................................................
+............................................................
+* MMHal-Bench
+
+git clone https://huggingface.co/datasets/Shengcao1006/MMHal-Bench
+
+COCO
+wget http://images.cocodataset.org/zips/train2014.zip
+wget http://images.cocodataset.org/zips/val2014.zip
+wget http://images.cocodataset.org/annotations/annotations_trainval2014.zip
+
+..............................................................
+............................................................
+
+* Causal-HalBench
+
+git clone https://github.com/zhexu-ustc/Causal-HalBench.git
+
+
+..............................................................
+............................................................
+
+
+* MM-SpuBench
+
+https://huggingface.co/datasets/mmbench/MM-SpuBench
+
+
+..............................................................
+............................................................
+
+
+* POPE
+git clone https://github.com/RUCAIBox/POPE.git
+wget http://images.cocodataset.org/zips/val2014.zip
+
+Forbuild the POPE splits
+run --- python main.py from dataset folder
