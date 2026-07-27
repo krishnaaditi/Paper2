@@ -29,6 +29,13 @@ Project/
 └── README.md
 ```
 
+
+
+</details>
+
+
+
+
 ## 📄 Croissant Metadata
 
 The dataset metadata is provided in Croissant format.
@@ -37,5 +44,3 @@ The dataset metadata is provided in Croissant format.
 - `purge-croissant.json`
 
 This file contains the complete machine-readable dataset description, including dataset structure, metadata, file organization, and licensing information, following the MLCommons Croissant specification.
-
-</details>
